@@ -1,0 +1,16 @@
+{
+  "name": "callbacks",
+  "version": "1.0.0",
+  "description": "**De forma sencilla:** \r Un Callback (llamada de vuelta) es una función que se ejecutará después de que otra función haya terminado de ejecutarse, de aquí el nombre de Callback.",
+  "main": "index.js",
+  "scripts": {
+    "start": "clear && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
